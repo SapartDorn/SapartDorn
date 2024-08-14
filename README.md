@@ -25,4 +25,4 @@
 
 ### Tecnologias mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticialMoraes&exclude_repo=github-readme-stats,SapartDorn.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SapartDorn&exclude_repo=github-readme-stats,SapartDorn.github.io)

@@ -1,7 +1,7 @@
 ### Hi there I'm Leonardo.👋- 🌱 I’m currently learning ...
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leonardohlss14@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/leonardohlss14@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-183739226/)
 
 ![SapartDorn GitHub stats](https://github-readme-stats.vercel.app/api?username=SapartDorn&show_icons=true&theme=merko)
